@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Asuda Yaseen 👋
 
-<!--
-**AsudaXoshnaw/AsudaXoshnaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer building modern web applications and AI-powered products.
 
-Here are some ideas to get you started:
+## What I do
+- Frontend: React, Next.js, JavaScript, TypeScript, HTML, CSS
+- Backend: Node.js, REST APIs, authentication, SQL databases
+- Product: UI/UX design, responsive websites, custom web applications
+- AI: integrating practical AI features into real-world products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Services
+I help businesses turn ideas into fast, useful, and polished web applications.
+
+## Connect
+- LinkedIn: [asuda-yaseen-203296371](https://www.linkedin.com/in/asuda-yaseen-203296371/)
+- GitHub: [@AsudaXoshnaw](https://github.com/AsudaXoshnaw)
+- Company: [Promodex](https://github.com/Promodex)
+
+📍 Shaqlawa, Kurdistan Region, Iraq
