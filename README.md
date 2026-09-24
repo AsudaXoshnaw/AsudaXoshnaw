@@ -1,82 +1,92 @@
-<div align="center">
-
-# Hi, I'm Asuda Yaseen <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32" alt="wave" />
-
-### Full-Stack Developer · Building modern web applications & AI-powered products
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+fast%2C+useful+web+experiences.;Turning+ideas+into+polished+products.;Always+learning%2C+always+building." alt="Animated introduction" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-asuda--yaseen--203296371-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asuda-yaseen-203296371/)
-[![GitHub](https://img.shields.io/badge/GitHub-@AsudaXshnaw-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsudaXshnaw)
-[![Location](https://img.shields.io/badge/Location-Kurdistan%2C+Iraq-EF4444?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-
-</div>
-
----
-
-## 👨‍💻 About me
-
-I'm a full-stack developer focused on crafting clean, responsive, and practical web products. I enjoy taking an idea from interface design to a reliable backend, and adding useful AI features when they make the product better.
-
-- 🔭 I build modern web applications and AI-powered tools.
-- 🎨 I care about thoughtful UI/UX and smooth user experiences.
-- 🌱 I’m continually improving my engineering skills and shipping real projects.
-- 📍 Based in Shadlawah, Kurdistan Region, Iraq.
-
-## 🧰 Tech stack
+<!--
+  GitHub Profile README for @AsudaXoshnaw
+-->
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,48:0F766E,100:22D3EE&height=220&section=header&text=Asuda%20Yaseen&fontSize=58&fontColor=F8FAFC&fontAlignY=37&desc=FULL-STACK%20DEVELOPER%20%7C%20SECURITY-MINDED%20BUILDER&descAlignY=58&descSize=16&animation=fadeIn" alt="Asuda Yaseen — Full-Stack Developer" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Designing+clean%2C+secure+web+experiences.;Building+from+idea+to+production.;Code.+Create.+Secure.+Ship." alt="Animated introduction" />
+</a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-@AsudaXoshnaw-09090B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsudaXoshnaw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asuda%20Yaseen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asuda-yaseen-203296371/)
+![Location](https://img.shields.io/badge/Based%20in-Kurdistan%2C%20Iraq-14B8A6?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<img src="https://komarev.com/ghpvc/?username=AsudaXoshnaw&style=flat-square&color=22D3EE&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
-```text
-Frontend  → React · Next.js · JavaScript · TypeScript · HTML · CSS
-Backend   → Node.js · REST APIs · Authentication · SQL Databases
-Product   → UI/UX Design · Responsive Websites · Web Applications
-AI        → Practical AI integrations for real-world products
+<br />
+
+```console
+asuda@portfolio:~$ whoami
+Full-stack developer • UI/UX enthusiast • security-minded builder
+
+asuda@portfolio:~$ mission
+Turn ambitious ideas into fast, useful, and polished web products.
+
+asuda@portfolio:~$ status
+Always learning. Always building. Always improving.
 ```
 
-## ✨ What I do
+## `> about_me`
 
-| Area | How I help |
-| --- | --- |
-| 🌐 Frontend | Build responsive, accessible interfaces that feel polished on every screen. |
-| ⚙️ Backend | Create APIs, authentication flows, and database-backed features. |
-| 🎯 Product | Turn ideas into fast, useful, production-ready web applications. |
-| 🤖 AI | Integrate practical AI capabilities into real-world products. |
+I'm **Asuda Yaseen**, a full-stack developer who builds modern web applications and practical AI-powered products. I combine thoughtful interfaces with dependable backend systems and pay close attention to authentication, clean APIs, and real user needs.
 
-## 📊 GitHub activity
+I like the mindset of a security-aware developer: understand how systems work, build them carefully, and keep improving them. My focus is creating work that looks sharp, performs well, and solves a real problem.
+
+## `> arsenal.load()`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AsudaXshnaw&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&bg_color=0D1117" alt="Asuda's GitHub statistics" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AsudaXshnaw&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Asuda's contribution streak" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,html,css&theme=dark&perline=7" alt="React, Next.js, TypeScript, JavaScript, Node.js, HTML, and CSS" />
+
 </div>
 
+<br />
+
+| Domain | Tools & strengths |
+| :-- | :-- |
+| `LANGUAGES` | JavaScript · TypeScript · HTML · CSS · SQL |
+| `FRAMEWORKS / RUNTIME` | React · Next.js · Node.js |
+| `BACKEND` | REST APIs · Authentication · SQL databases |
+| `PRODUCT` | UI/UX design · Responsive websites · Web applications |
+| `AI` | Practical AI integrations for real-world products |
+| `MINDSET` | Clean code · Secure-by-design thinking · Continuous learning |
+
+## `> currently_focused_on`
+
+```yaml
+building:
+  - Fast, responsive web applications
+  - Reliable APIs and authentication systems
+  - Useful AI features that improve real products
+
+improving:
+  - Full-stack architecture
+  - Secure web engineering fundamentals
+  - Product design and user experience
+```
+
+## `> github.telemetry()`
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsudaXshnaw&bg_color=0D1117&color=CBD5E1&line=38BDF8&point=F8FAFC&area=true&hide_border=true" alt="Contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsudaXoshnaw/AsudaXoshnaw/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AsudaXoshnaw/AsudaXoshnaw/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/AsudaXoshnaw/AsudaXoshnaw/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
-## 🤝 Let's connect
-
-I'm open to collaborating on thoughtful web projects, product ideas, and AI-powered experiences.
-
-- LinkedIn: [asuda-yaseen-203296371](https://www.linkedin.com/in/asuda-yaseen-203296371/)
-- GitHub: [@AsudaXshnaw](https://github.com/AsudaXshnaw)
-- Company: [Promodex](#) <!-- Replace # with your company URL -->
+## `> connection.open()`
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=AsudaXshnaw&style=flat-square&color=38BDF8&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asuda-yaseen-203296371/)
+[![GitHub](https://img.shields.io/badge/Explore%20my%20work-09090B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsudaXoshnaw)
 
-_Thanks for visiting — let's build something great._
+_“Build with curiosity. Ship with purpose. Improve without stopping.”_
 
 </div>
